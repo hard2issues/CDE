@@ -1,0 +1,12 @@
+C:\Users\joaoa\Documents\DEV\telaLogin\bin\Debug\telaLogin.exe.config
+C:\Users\joaoa\Documents\DEV\telaLogin\bin\Debug\telaLogin.exe
+C:\Users\joaoa\Documents\DEV\telaLogin\bin\Debug\telaLogin.pdb
+C:\Users\joaoa\Documents\DEV\telaLogin\obj\Debug\telaLogin.csproj.AssemblyReference.cache
+C:\Users\joaoa\Documents\DEV\telaLogin\obj\Debug\telaLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaoa\Documents\DEV\telaLogin\obj\Debug\telaLogin.Form1.resources
+C:\Users\joaoa\Documents\DEV\telaLogin\obj\Debug\telaLogin.Properties.Resources.resources
+C:\Users\joaoa\Documents\DEV\telaLogin\obj\Debug\telaLogin.csproj.GenerateResource.cache
+C:\Users\joaoa\Documents\DEV\telaLogin\obj\Debug\telaLogin.csproj.CoreCompileInputs.cache
+C:\Users\joaoa\Documents\DEV\telaLogin\obj\Debug\telaLogin.exe
+C:\Users\joaoa\Documents\DEV\telaLogin\obj\Debug\telaLogin.pdb
+C:\Users\joaoa\Documents\DEV\telaLogin\obj\Debug\telaLogin.Form2.resources
